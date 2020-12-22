@@ -11,7 +11,7 @@ Taskinator will allow you to organize your personal to-do list items by clicking
 [Link to deployed application](https://bennasabir.github.io/taskinator/)
 
 Image showcasing the taskinator landing page
-<img src=./assets/images/Screenshot.png>
+<img src=./assets/images/ScreenShot.png>
 
 ## Technologies
 Project is created with 
